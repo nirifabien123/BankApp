@@ -59,6 +59,8 @@ namespace Bankapp
                     Console.WriteLine(acc1.GetAccountHistory());
                     goto case 1;
                     break;
+                case 3:
+                    Console.WriteLine("additional change");
                     
                 
                     
