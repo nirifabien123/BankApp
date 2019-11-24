@@ -21,7 +21,7 @@ namespace Bankapp
                 }
                 return balance;
             }
-            set => throw new NotImplementedException();
+   
         }
 
         //list of transactions to manage all transactions made in an account.

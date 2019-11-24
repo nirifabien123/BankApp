@@ -57,10 +57,11 @@ namespace Bankapp
                     acc1.MakeWithdrawal(withdrawAmount,DateTime.Now, reason1);
                     Console.WriteLine($"Success withdraw of { withdrawAmount}.00Rwf from {acc1} account, by {names1} for {reason1}.");
                     Console.WriteLine(acc1.GetAccountHistory());
-                    goto case 1;
+                  
                     break;
                 case 3:
                     Console.WriteLine("additional change");
+                    break;
                     
                 
                     

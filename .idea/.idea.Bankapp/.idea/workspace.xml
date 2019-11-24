@@ -2,38 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a0efe0-ddf2-4805-adb5-ce4df3acde11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Bankapp/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Bankapp/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Bankapp/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Bankapp/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Bankapp/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Bankapp/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Bankapp/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/BankAccount.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/Bankapp.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/Transaction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.deps.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.runtimeconfig.dev.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.runtimeconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Bankapp.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Bankapp.csproj.nuget.dgspec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Bankapp.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Bankapp.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.csprojAssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bankapp/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bankapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bankapp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bankapp/BankAccount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bankapp/BankAccount.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bankapp/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Bankapp/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Bankapp/bin/Debug/netcoreapp3.0/Bankapp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Bankapp/obj/Debug/netcoreapp3.0/Bankapp.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -110,7 +85,7 @@
       <updated>1574143586045</updated>
       <workItem from="1574143599300" duration="4492000" />
       <workItem from="1574410515612" duration="39611000" />
-      <workItem from="1574603500209" duration="2039000" />
+      <workItem from="1574603500209" duration="4280000" />
     </task>
     <servers />
   </component>
