@@ -41,19 +41,23 @@ namespace Bankapp
           
          public void MakeDeposit(decimal amount, decimal accountnumber,string depositer, DateTime date, string note)
          { 
+             decimal balance=100000;
              if (amount<0) 
              {
                 throw new ArgumentOutOfRangeException(nameof(amount),"Amount of deposit must be positive!");
-             } 
-             Balance += amount;
+             }
+
+            
+             balance += amount;
              var deposit= new Transaction(amount,date,note);
              allTransactions.Add(deposit);
              Console.WriteLine($"Success deposit of {amount}.00Rwf on {accountnumber} account, by {depositer} for {note}.");
-             Console.WriteLine($"Dear {depositer}, your new balance is {Balance}.00rwf\n\t Thank you for banking with us!");
+             Console.WriteLine($"Dear {depositer}, your new balance is {balance}.00rwf\n\t Thank you for banking with us!");
          }
          //A method for the withdrawal transactions.
         public void MakeWithdrawal(decimal amount, DateTime date, string note)
         {
+            decimal balance=0;
              if (amount<0)
              {
                  throw new ArgumentOutOfRangeException(nameof(amount),"Amount of withdrawal must be positive!");
@@ -67,8 +71,8 @@ namespace Bankapp
              }
              
              var withdrawal= new Transaction(-amount,date,note);
-             Balance -= amount;
-             Console.WriteLine($"Dear {Owner}, your new balance is {Balance}.00rwf\n\t Thank you for banking with us!");
+             balance -= amount;
+             Console.WriteLine($"Dear {Owner}, your new balance is {balance}.00rwf\n\t Thank you for banking with us!");
              allTransactions.Add(withdrawal);
         }
                 public string GetAccountHistory()
